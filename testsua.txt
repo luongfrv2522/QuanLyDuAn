@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 sua lan 1 by phu\
 sua lan 2 by phu
+=======
+sua lan 2 by luong
+>>>>>>> 544f3679515577f7334b82f5902dbcbc054b44eb
 =======
 sua lan 2 by luong
 >>>>>>> 544f3679515577f7334b82f5902dbcbc054b44eb
